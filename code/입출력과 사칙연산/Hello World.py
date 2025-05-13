@@ -1,1 +1,3 @@
-print("hello world") #
+print("hello world") #print()는 괄호 안의 내용을 출력하는 함수
+                     #"hello world"는 문자열(string)이라고 부르며, 따옴표로 묶인 문자들의 집합
+                     #문자열은 컴퓨터가 이해할 수 있는 언어로, 프로그램에서 데이터를 표현하는 데 사용됨
